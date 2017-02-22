@@ -1,1 +1,1 @@
-Python editor with indent .
+Python editor with indent.
